@@ -1,0 +1,5 @@
+Bài tập về hình học: (1 điểm)
+Lớp Shape: Đại diện cho hình học cơ bản.
+Lớp con: Rectangle, Circle, Triangle.
+Thuộc tính: Màu sắc, độ dày đường viền.
+Phương thức: Tính diện tích, tính chu vi.

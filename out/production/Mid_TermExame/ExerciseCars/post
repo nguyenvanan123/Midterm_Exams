@@ -1,0 +1,5 @@
+Bài tập về xe hơi: (1 điểm)
+Lớp Vehicle: Đại diện cho phương tiện giao thông.
+Lớp con: Car, Motorcycle, Truck.
+Thuộc tính: Thương hiệu, màu sắc.
+Phương thức: Khởi động, tăng tốc, dừng lại.

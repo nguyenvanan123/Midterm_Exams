@@ -1,0 +1,5 @@
+Bài tập về động vật: (1điểm)
+Lớp Animal: Đại diện cho động vật.
+Lớp con: Dog, Cat, Bird.
+Thuộc tính: Tên, tuổi.
+Phương thức: Phát ra tiếng kêu, di chuyển.

@@ -1,0 +1,5 @@
+Bài tập về sách: (1 điểm)
+Lớp Book: Đại diện cho sách.
+Lớp con: FictionBook, NonFictionBook, ScienceBook.
+Thuộc tính: Tiêu đề, tác giả, nhà xuất bản.
+Phương thức: Lấy thông tin, tìm kiếm.

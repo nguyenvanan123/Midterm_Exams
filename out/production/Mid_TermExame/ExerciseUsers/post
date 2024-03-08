@@ -1,0 +1,5 @@
+ Bài tập về người dùng: (1 điểm)
+Lớp User: Đại diện cho người dùng.
+Lớp con: Admin, Customer, Moderator.
+Thuộc tính: Tên đăng nhập, email, mật khẩu.
+Phương thức: Đăng nhập, đăng ký, đăng xuất.
